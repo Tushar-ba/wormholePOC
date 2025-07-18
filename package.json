@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@wormhole-foundation/sdk": "^3.0.2"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3"
+  }
+}
